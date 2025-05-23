@@ -5,8 +5,8 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
-[contracts.consent-management]
-path = 'contracts/consent-management.clar'
+[contracts.data-collection]
+path = 'contracts/data-collection.clar'
 clarity_version = 2
 epoch = 2.5
 [repl.analysis]
