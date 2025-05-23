@@ -50,8 +50,8 @@ plan:
     - id: 0
       transactions:
         - emulated-contract-publish:
-            contract-name: consent-management
+            contract-name: data-collection
             emulated-sender: ST1PQHQKV0RJXZFY1DGX8MNSNYVE3VGZJSRTPGZGM
-            path: contracts/consent-management.clar
+            path: contracts/data-collection.clar
             clarity-version: 2
       epoch: "2.5"

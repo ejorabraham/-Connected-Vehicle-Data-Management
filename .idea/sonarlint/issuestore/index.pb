@@ -9,3 +9,5 @@ P
  tests/consent-management.test.ts,7/8/783f8cca98d01d49f59c2931d64e7c41c95061ed
 N
 contracts/data-collection.clar,8/e/8e0596740b3c1cadac393db7643b0ff43faaa29f
+M
+tests/data-collection.test.ts,2/5/2579f1e2229939c4dc58183c1ed84b0526eed87a
